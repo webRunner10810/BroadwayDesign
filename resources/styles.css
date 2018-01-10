@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 header {
-  background-image: image();
+  background-image: url("../images/the-flatiron-building.png");
 
 }
 h1 {
@@ -17,17 +17,20 @@ h1 {
 h2 {
   font-size: 32px;
 }
-h3 {
+h3, h4 {
   font-size: 23px;
-  color: white
+
 }
-h3.banner {
-  background-image: url();
+h4 {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white
 }
 a {
   font-family: inherit;
   font-size: 18px;
-  color: inherit;
+  color: white;
+  text-decoration: none;
+
 }
 p {
   font-size: 14px;
