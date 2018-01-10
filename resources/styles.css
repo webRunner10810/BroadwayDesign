@@ -21,6 +21,9 @@ h3 {
   font-size: 23px;
   color: white
 }
+h3.banner {
+  background-image: url();
+}
 a {
   font-family: inherit;
   font-size: 18px;
